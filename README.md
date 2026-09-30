@@ -2,7 +2,7 @@
 
 A responsive landing page for **ByteSpace**, built from the provided Figma design as part of a Jr. Software Engineer (Frontend) assessment.
 
-**Live Demo:** [ADD_VERCEL_LINK_HERE](ADD_VERCEL_LINK_HERE)
+**Live Demo:** [https://bytespace-landing-page-eta.vercel.app](https://bytespace-landing-page-eta.vercel.app)    
 **Design (Figma):** [ByteSpace New](https://www.figma.com/design/26TBgRjmpuxudcErJsHUfy/ByteSpace-New-Check-website?node-id=0-1&p=f&t=eQOrqJmq6rMG5b6L-0)
 
 ## Features
